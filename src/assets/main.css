@@ -1,0 +1,34 @@
+.send {
+    padding: 13.5px 14px !important;
+    margin-left: 10px !important;
+}
+.fieldPadding{
+    margin-left: 10px !important;
+}
+
+.select{
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+
+.navMenu{
+    color: white !important;
+    margin-right: 20px !important;
+    text-decoration: none !important;
+}
+
+.active {
+    font-weight: bold !important;
+}
+
+.disabled-link {
+    pointer-events: none;
+    opacity: 0.5; /* İsteğe Bağlı: Opaklık ayarı */
+}
+
+.alert-success{
+    margin-top: 20px;
+    color: green;
+    font-weight: bold;
+    font-family: sans-serif;
+}
